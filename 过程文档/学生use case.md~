@@ -9447,7 +9447,7 @@
 				    x_offset   	FALSE)
 				(object StateView "Normal" "学工号不匹配，两次密码不相同" @397
 				    Parent_View 	@369
-				    location   	(2015, 1887)
+				    location   	(1976, 1831)
 				    font       	(object Font
 					size       	10
 					face       	"Arial"
@@ -9459,7 +9459,7 @@
 					default_color 	TRUE)
 				    label      	(object ItemLabel
 					Parent_View 	@397
-					location   	(2015, 1876)
+					location   	(1976, 1820)
 					fill_color 	13434879
 					anchor_loc 	1
 					nlines     	2
@@ -9485,7 +9485,7 @@
 					default_color 	TRUE)
 				    label      	(object SegLabel @399
 					Parent_View 	@398
-					location   	(1614, 1212)
+					location   	(1595, 1184)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -9509,8 +9509,8 @@
 				    client     	@374
 				    supplier   	@397
 				    vertices   	(list Points
-					(1185, 652)
-					(1969, 1820))
+					(1185, 653)
+					(1931, 1764))
 				    line_style 	0
 				    x_offset   	FALSE)
 				(object StateView "Normal" "注册失败" @400
@@ -9613,8 +9613,8 @@
 				    client     	@397
 				    supplier   	@400
 				    vertices   	(list Points
-					(1811, 1820)
-					(1237, 1630))
+					(1737, 1763)
+					(1237, 1623))
 				    line_style 	0
 				    x_offset   	FALSE)
 				(object StateView "EndState" "$UNNAMED$13" @408
@@ -10876,7 +10876,7 @@
 			    zoom       	100
 			    max_height 	28350
 			    max_width  	21600
-			    origin_x   	699
+			    origin_x   	700
 			    origin_y   	0
 			    items      	(list diagram_item_list
 				(object Swimlane "" @484
